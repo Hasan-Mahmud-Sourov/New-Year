@@ -138,6 +138,21 @@
     border-radius: 16px;
 }
 
+.window button {
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    text-transform: uppercase;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    background: #F00;
+    color: white;
+}
+
 .window {
     text-align: center;
     padding-top: 100px;
@@ -323,7 +338,8 @@
 .pics {
     margin: 5px;
 }
-.pics:hover{
+
+.pics:hover {
     cursor: pointer;
 }
 
@@ -454,7 +470,7 @@ footer a {
     font-weight: 500;
 }
 
-.last-foot{ 
+.last-foot {
     width: 1320px;
     padding-left: 280px;
     display: flex;
