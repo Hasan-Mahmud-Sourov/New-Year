@@ -3,7 +3,7 @@
 /* header style */
 
 .banner {
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/banner.png);
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(./resources/Banner\ Image.png);
     align-items: center;
     width: 1320px;
     height: 600px;
@@ -73,7 +73,7 @@
 }
 
 .banner2 {
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Vectorrr.png);
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(./resources/Vectorrr.png);
     border-radius: 16px;
     width: 1320px;
     height: 600px;
